@@ -9,3 +9,7 @@ Video 1 théorie : https://www.youtube.com/watch?v=lPNYszuJUGM
 Video 2 cas pratique: https://www.youtube.com/watch?v=gBHNuFq5PpI
 
 J'ai codé sans l'aide de ChatGPT, à la main (à part pour un rappel sur la fonction mod_pow() voici une video qui explique l'exponentiation modulaire : https://www.youtube.com/watch?v=G2AUL3xxA3U ).
+
+```
+
+```
