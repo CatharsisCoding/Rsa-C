@@ -1,9 +1,7 @@
 # Rsa-C
 
 
-
-
-RSA codé en C avec ce qu'il y'avait dans ces vidéos expliquant comment chiffrer et déchiffrer avec RSA à l'aide d'une feuille et d'un stylo : 
+Rsa codé de manière original en C , avec ce qu'il y'avait dans ces vidéos expliquant comment chiffrer et déchiffrer avec RSA à l'aide d'une feuille et d'un stylo : 
 
 Video 1 théorie : https://www.youtube.com/watch?v=lPNYszuJUGM
 ![image](https://github.com/CatharsisCoding/Rsa-C/assets/97361977/0bad245f-f127-4ab9-a490-ab022129f4cb)
