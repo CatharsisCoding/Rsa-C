@@ -13,7 +13,7 @@ J'ai codé sans l'aide de ChatGPT, à la main (à part pour un rappel sur la fon
 J'ai choisi cette méthode pour faire la puissance et le modulo car on fait moins de calculs. La puissance normale donnait des erreurs, c'est pourquoi j'ai fait des recherches pour voir quelle était la solution et je suis tombé sur cette méthode que j'avais oubliée.
 
 
-```
+```c
 /**
  * Calcule la puissance modulaire rapide
  *
